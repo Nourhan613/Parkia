@@ -35,13 +35,13 @@
     <h3>Project Structure</h3>
     <p>The project is organized into two main folders, each containing the relevant code and resources:</p>
     <ul>
-        <li><strong>model_code/</strong>: This folder contains the Python code for the machine learning models, including:
+        <li><strong>model_code</strong>: This folder contains the Python code for the machine learning models, including:
             <ul>
-                <li><strong>hand_drawing_model/</strong>: Contains the code and trained CNN model for analyzing hand drawings (spiral, meander, circle) to detect signs of Parkinson's disease.</li>
-                <li><strong>speech_model/</strong>: Contains the code and trained Random Forest model for analyzing speech recordings to detect signs of            Parkinson's disease.</li>
+                <li><strong>hand_drawing_model</strong>: Contains the code and trained CNN model for analyzing hand drawings (spiral, meander, circle) to detect signs of Parkinson's disease.</li>
+                <li><strong>speech_model</strong>: Contains the code and trained Random Forest model for analyzing speech recordings to detect signs of            Parkinson's disease.</li>
             </ul>
         </li>
-        <li><strong>app_code/</strong>: This folder contains the Flutter code for the mobile application, including:
+        <li><strong>app_code</strong>: This folder contains the Flutter code for the mobile application, including:
         </li>
 </ul>
     <h3>Dataset</h3>

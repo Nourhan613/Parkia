@@ -56,7 +56,7 @@
 </ul>
 
 <h2>App Screenshots</h2>
-<p>Below are some screenshots of the mobile application:</p>
+Below are some screenshots of the mobile application:
 ![image](https://github.com/user-attachments/assets/66cb88f0-7360-487b-ac3e-deb92a3fec8c).
 
 <h2>Usage</h2>

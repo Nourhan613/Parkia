@@ -1,8 +1,6 @@
 <h1>Early Detection of Parkinson's Disease using Hand Drawing and Speech Recognition</h1>
-
     <h2>Project Overview</h2>
     <p>This project is part of my graduation thesis from the Faculty of Computer and Information Science, Scientific Computing Department, Ain Shams University. The primary objective is the early detection of Parkinson's disease by leveraging two key features: <strong>Hand Drawing Analysis</strong> and <strong>Speech Recognition</strong>. The project has been implemented in a mobile application using <strong>Flutter</strong> for the front-end and <strong>Flask</strong> for the back-end.</p>
-
     <h3>Key Features</h3>
     <ul>
         <li><strong>Hand Drawing Analysis</strong>:
@@ -18,13 +16,11 @@
             </ul>
         </li>
     </ul>
-
     <h3>Results</h3>
     <ul>
         <li><strong>Achieved Grade:</strong> A+</li>
         <li><strong>Recognition:</strong> Awarded for innovation in early detection methodologies.</li>
     </ul>
-
     <h2>Tech Stack</h2>
     <ul>
         <li><strong>Mobile App:</strong> Flutter</li>
@@ -36,7 +32,6 @@
             </ul>
         </li>
     </ul>
-
     <h2>Project Structure</h2>
     <ul>
         <li><code>mobile_app/</code>: Contains the Flutter code for the mobile application.</li>
@@ -46,21 +41,17 @@
         <li><code>notebooks/</code>: Contains Jupyter notebooks with the code for model training and evaluation.</li>
         <li><code>README.md</code>: This file.</li>
     </ul>
-
     <h2>Installation and Setup</h2>
-
     <h3>Prerequisites</h3>
     <ul>
         <li><strong>Python 3.7+</strong></li>
         <li><strong>Flutter 2.0+</strong></li>
         <li><strong>pip</strong> for Python package management</li>
     </ul>
-
     <h3>Steps</h3>
     <ol>
         <li><strong>Clone the Repository:</strong>
-            <pre><code>git clone https://github.com/YourUsername/parkinsons-detection.git
-cd parkinsons-detection</code></pre>
+            <pre><code>git clone https://github.com/YourUsername/parkinsons-detection.git cd parkinsons-detection</code></pre>
         </li>
         <li><strong>Backend Setup:</strong>
             <ol>
@@ -89,10 +80,8 @@ cd parkinsons-detection</code></pre>
             </ol>
         </li>
     </ol>
-
     <h3>Dataset</h3>
-    <p>The dataset used for this project is not publicly available due to privacy concerns. However, you can use similar datasets available for Parkinson's research or create your own dataset by capturing drawings and audio from users.</p>
-
+    <p>The dataset used for this project is not publicly available due to privacy concerns. However, you can use similar datasets available for Parkinson's research or create your own dataset by capturing user drawings and audio.</p>
     <h2>Usage</h2>
     <ol>
         <li><strong>Hand Drawing Analysis:</strong>
@@ -114,10 +103,8 @@ cd parkinsons-detection</code></pre>
             </ul>
         </li>
     </ol>
-
     <h2>Contributing</h2>
     <p>Contributions are welcome! Please open an issue or submit a pull request for any improvements.</p>
-
     <h2>Acknowledgments</h2>
     <ul>
         <li><strong>Advisors:</strong> Manal Tantawi and Manar Sultan</li>
@@ -126,5 +113,3 @@ cd parkinsons-detection</code></pre>
 
     <h2>License</h2>
     <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-
-</body>

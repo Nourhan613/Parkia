@@ -1,6 +1,6 @@
 <h1>Early Detection of Parkinson's Disease using Hand Drawing and Speech Recognition</h1>
     <h2>Project Overview</h2>
-    <p>This project is part of my graduation thesis from the Faculty of Computer and Information Science, Scientific Computing Department, Ain Shams University. The primary objective is the early detection of Parkinson's disease by leveraging two key features: <strong>Hand Drawing Analysis</strong> and <strong>Speech Recognition</strong>. The project has been implemented in a mobile application using <strong>Flutter</strong> for the front-end and <strong>Flask</strong> for the back-end.</p>
+    <p>This project is part of my graduation thesis from the Faculty of Computer and Information Science, Scientific Computing Department, Ain Shams University. The primary objective is the early detection of Parkinson's disease by leveraging two key features: <strong>Hand Drawing Analysis</strong> and <strong>Speech </strong>. The project has been implemented in a mobile application using <strong>Flutter</strong> for the front-end and <strong>Flask</strong> for the back-end.</p>
     <h3>Key Features</h3>
     <ul>
         <li><strong>Hand Drawing Analysis</strong>:

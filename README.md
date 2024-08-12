@@ -57,9 +57,7 @@
 
 <h2>App Screenshots</h2>
 <p>Below are some screenshots of the mobile application:</p>
-<ul>
-    <li><img src="[path/to/image1.png](https://www.linkedin.com/feed/update/urn:li:activity:7217978750389370882/)" alt="Screenshots" width="300"></li>
-</ul>
+![image](https://github.com/user-attachments/assets/66cb88f0-7360-487b-ac3e-deb92a3fec8c)
 
 <h2>Usage</h2>
 <ol>

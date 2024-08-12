@@ -19,7 +19,7 @@
     <h3>Results</h3>
     <ul>
         <li><strong>Achieved Grade:</strong> A+</li>
-        <li><strong>:</strong> Awarded for innovation in early detection methodologies.</li>
+        <li><strong>Recognition:</strong> Awarded for innovation in early detection methodologies.</li>
     </ul>
     <h2>Tech Stack</h2>
     <ul>

@@ -41,45 +41,6 @@
         <li><code>notebooks/</code>: Contains Jupyter notebooks with the code for model training and evaluation.</li>
         <li><code>README.md</code>: This file.</li>
     </ul>
-    <h2>Installation and Setup</h2>
-    <h3>Prerequisites</h3>
-    <ul>
-        <li><strong>Python 3.7+</strong></li>
-        <li><strong>Flutter 2.0+</strong></li>
-        <li><strong>pip</strong> for Python package management</li>
-    </ul>
-    <h3>Steps</h3>
-    <ol>
-        <li><strong>Clone the Repository:</strong>
-            <pre><code>git clone https://github.com/YourUsername/parkinsons-detection.git cd parkinsons-detection</code></pre>
-        </li>
-        <li><strong>Backend Setup:</strong>
-            <ol>
-                <li>Navigate to the backend directory:
-                    <pre><code>cd backend</code></pre>
-                </li>
-                <li>Install the required Python packages:
-                    <pre><code>pip install -r requirements.txt</code></pre>
-                </li>
-                <li>Run the Flask server:
-                    <pre><code>flask run</code></pre>
-                </li>
-            </ol>
-        </li>
-        <li><strong>Mobile App Setup:</strong>
-            <ol>
-                <li>Navigate to the <code>mobile_app</code> directory:
-                    <pre><code>cd ../mobile_app</code></pre>
-                </li>
-                <li>Get the Flutter dependencies:
-                    <pre><code>flutter pub get</code></pre>
-                </li>
-                <li>Run the mobile app:
-                    <pre><code>flutter run</code></pre>
-                </li>
-            </ol>
-        </li>
-    </ol>
     <h3>Dataset</h3>
     <p>The datasets used for this project are publicly available and can be accessed as follows:</p>
     <ul>

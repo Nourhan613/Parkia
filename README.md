@@ -58,11 +58,8 @@
 <h2>App Screenshots</h2>
 <p>Below are some screenshots of the mobile application:</p>
 <ul>
-    <li><img src="path/to/image1.png" alt="Screenshot 1" width="300"></li>
-    <li><img src="path/to/image2.png" alt="Screenshot 2" width="300"></li>
-    <li><img src="path/to/image3.png" alt="Screenshot 3" width="300"></li>
+    <li><img src="[path/to/image1.png](https://www.linkedin.com/feed/update/urn:li:activity:7217978750389370882/)" alt="Screenshots" width="300"></li>
 </ul>
-<p>Upload your screenshots to the repository and update the <code>src</code> paths above to display them here.</p>
 
 <h2>Usage</h2>
 <ol>

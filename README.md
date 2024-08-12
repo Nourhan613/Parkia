@@ -81,7 +81,11 @@
         </li>
     </ol>
     <h3>Dataset</h3>
-    <p>The dataset used for this project is not publicly available due to privacy concerns. However, you can use similar datasets available for Parkinson's research or create your own dataset by capturing user drawings and audio.</p>
+    <p>The datasets used for this project are publicly available and can be accessed as follows:</p>
+    <ul>
+        <li><strong>Hand Drawing Analysis:</strong> We used the <a href="https://wwwp.fc.unesp.br/~papa/pub/datasets/Handpd/" target="_blank">NewHandPD</a> dataset, which includes various hand-drawn shapes                           collected from Parkinson's patients and healthy individuals.</li>
+        <li><strong>Speech Recognition:</strong> We utilized the dataset available at <a href="https://zenodo.org/records/2867216" target="_blank">Zenodo</a>, which contains audio recordings of individuals                            reading a set text aloud, used to analyze speech patterns indicative of Parkinson's disease.</li>
+    </ul>
     <h2>Usage</h2>
     <ol>
         <li><strong>Hand Drawing Analysis:</strong>
@@ -110,6 +114,3 @@
         <li><strong>Advisors:</strong> Manal Tantawi and Manar Sultan</li>
         <li><strong>University:</strong> Ain Shams University, Faculty of Computer and Information Science, Scientific Computing Department</li>
     </ul>
-
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>

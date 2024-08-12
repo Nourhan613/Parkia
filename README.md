@@ -41,7 +41,7 @@
                 <li><strong>speech_model</strong>: Contains the code and trained Random Forest model for analyzing speech recordings to detect signs of            Parkinson's disease.</li>
             </ul>
         </li>
-        <li><strong>app_code</strong>: This folder contains the Flutter code for the mobile application, including:
+        <li><strong>app_code</strong>: This folder contains the Flutter code for the mobile application.
         </li>
 </ul>
     <h3>Dataset</h3>

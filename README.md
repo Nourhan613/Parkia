@@ -90,7 +90,7 @@
     <li><strong>University:</strong> Ain Shams University, Faculty of Computer and Information Science, Scientific Computing Department</li>
 </ul>
 
-# Collaborators:
+<h2>Collaborators</h2>
 - <a href="https://github.com/Nourhan613">Nourhan Mohamed</a><br>
 - <a href="https://github.com/YasminHamada">Yasmin Hamada</a><br>
 - <a href="https://github.com/FatmaMahmoudBadr">Fatma Mahmoud</a><br>

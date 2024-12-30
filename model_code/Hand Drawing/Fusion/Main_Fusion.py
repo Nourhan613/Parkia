@@ -31,7 +31,7 @@ print("healthyImage_train_spiral", len(Xh_train_sp))
 print("healthyImage_test_spiral", len(Xh_test_sp))
 print("patientImage_test_spiral", len(Xp_test_sp))
 
-# Split Meander
+# Spilt Meander
 Xp_train_m, Xp_test_m, Yp_train_m, Yp_test_m = pp.split_data(patientImage_m, patientLabel_m, 0.15, 42)
 Xh_train_m, Xh_test_m, Yh_train_m, Yh_test_m = pp.split_data(healthyImage_m, healthyLabel_m, 0.25, 42)
 print("patientImage_train_meander", len(Xp_train_m))
